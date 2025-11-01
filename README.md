@@ -16,7 +16,7 @@ I enjoy building dashboards, workflows, and AI prototypes that help organization
 
 ## 🧠 Core Strengths
 
-- **Data Analytics & BI:** SQL, Power BI, Tableau, Looker, Excel, Python (pandas, numpy)  
+- **Data Analytics & BI:** SQL, Power BI, Tableau, Looker, Excel, Python (pandas, numpy),Healthcare analytics, AI   
 - **Process Optimization:** BPMN, UML, Lean Six Sigma, Agile (Scrum, Kanban)  
 - **Documentation:** BRD, FRD, User Stories, Use Cases, Visio, Lucidchart  
 - **Automation Tools:** Power Automate, Alteryx, Google Data Studio  
