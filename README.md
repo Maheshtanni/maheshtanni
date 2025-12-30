@@ -8,7 +8,7 @@
 ## 👋 About Me
 
 I’m a **data-driven Business Analyst** passionate about transforming complex business processes into intelligent, automated, and measurable solutions.  
-With **4+ years of experience** spanning healthcare, insurance, and technology consulting, I bridge the gap between business goals and technical execution — using data, design thinking, and AI-powered innovation.
+With **4+ years of experience** spanning healthcare, insurance, and technology consulting, I bridge the gap between business goals and technical execution  using data, design thinking, and AI-powered innovation.
 
 I enjoy building dashboards, workflows, and AI prototypes that help organizations **make better decisions, faster.**
 
