@@ -55,7 +55,7 @@ I enjoy building dashboards, workflows, and AI prototypes that help organization
   Built a Retrieval-Augmented Generation chatbot on AWS Bedrock + Claude Sonnet, improving response accuracy by 29%.  
 
 - **Airline Passenger Satisfaction Analytics:**  
-  Applied ML models for predictive insights and Power BI dashboards enhancing decision-making by 25%.
+  Applied ML models for predictive insights and Power BI dashboards, enhancing decision-making by 25%.
 
 ---
 
@@ -68,10 +68,10 @@ I enjoy building dashboards, workflows, and AI prototypes that help organization
 
 ## 🏅 Certifications
 
-- **[Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=65897BE8E9ED3CC2FE00A58389C307BAC4B82E01B466229403951177C8A3B4A5)** — Issued Oct 2025  🧠  
-- Gen AI for Business Analysts — Coursera  
-- Data Modeling in Power BI — Microsoft  
-- Fundamentals of Visualization with Tableau — University of California  
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+- Lean SIX SIGMA - Yellow Belt  
+- Sales force CRM AI Agent  
+- Alteryx certified Designer Core 
 
 ---
 
