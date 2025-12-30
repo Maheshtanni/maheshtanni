@@ -56,7 +56,7 @@ I enjoy building dashboards, workflows, and AI prototypes that help organization
 
 - **Airline Passenger Satisfaction Analytics:**  
   Applied ML models for predictive insights and Power BI dashboards, enhancing decision-making by 25%.
-_
+  
 - **Healthcare Analytics:**
   Developed an ML predictive model to predict real-time patient flow to support leadership decisions. 
 
