@@ -16,7 +16,7 @@ I enjoy building dashboards, workflows, and AI prototypes that help organization
 
 ## 🧠 Core Strengths
 
-- **Data Analytics & BI:** SQL, Power BI, Tableau, Looker, Excel, Python (pandas, numpy),Healthcare analytics, AI   
+- **Data Analytics & BI:** SQL, Power BI, Tableau, Looker, Excel, Python (pandas, numpy), Healthcare analytics, AI   
 - **Process Optimization:** BPMN, UML, Lean Six Sigma, Agile (Scrum, Kanban)  
 - **Documentation:** BRD, FRD, User Stories, Use Cases, Visio, Lucidchart  
 - **Automation Tools:** Power Automate, Alteryx, Google Data Studio  
@@ -35,11 +35,11 @@ I enjoy building dashboards, workflows, and AI prototypes that help organization
 - Deployed real-time QA dashboards in Tableau + SAP HANA for anomaly detection and compliance visibility.  
 
 ### **Highmark | Business Analyst** *(Jan 2024 – Nov 2024)*  
-- Reduced claim-processing data errors by 15% via SQL-based validation & Visio-mapped workflows.  
+- Reduced claim-processing data errors by 15% via **SQL-based validation** & Visio-mapped workflows.  
 - Drove engagement on member portals using predictive analytics and UAT-driven enhancements.  
 - Ensured 100% compliance with **No Surprises Act** through SQL-powered gap analysis.  
 - Automated provider onboarding → 30% cycle-time reduction.  
-- Created Power BI dashboards enabling SLA tracking and CMS compliance reporting.  
+- Created Power BI dashboards enabling **SLA** tracking and CMS compliance reporting.  
 
 ### **Zentek Infosoft | Business Analyst** *(Apr 2020 – Dec 2022)*  
 - Authored 50+ BRDs & User Stories in Jira + Confluence for IT and ERP initiatives.  
@@ -56,6 +56,8 @@ I enjoy building dashboards, workflows, and AI prototypes that help organization
 
 - **Airline Passenger Satisfaction Analytics:**  
   Applied ML models for predictive insights and Power BI dashboards, enhancing decision-making by 25%.
+_ **Healthcare Analytics:**
+  Developed ML predictive model to predict real time patient flow to support leadership decisions. 
 
 ---
 
