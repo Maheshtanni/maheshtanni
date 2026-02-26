@@ -1,96 +1,103 @@
 # 💼 Mahesh Tanniru
 
-**Business Analyst | Data Analyst | AI Enthusiast**  
-📍 Fairfax, VA | 📧 [maheshtanniru32@gmail.com](mailto:maheshtanniru32@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/mahesh-tanniru)
+**Data & Analytics Engineer | SQL • Snowflake • AWS • dbt • Healthcare Analytics**  
+📍 United States (Open to Relocate)  
+📧 maheshtanni1@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/mahesh-tanniru)
 
 ---
 
 ## 👋 About Me
 
-I’m a **data-driven Business Analyst** passionate about transforming complex business processes into intelligent, automated, and measurable solutions.  
-With **4+ years of experience** spanning healthcare, insurance, and technology consulting, I bridge the gap between business goals and technical execution  using data, design thinking, and AI-powered innovation.
+I am a **Data & Analytics Engineer** with 5+ years of experience building scalable, production-grade data platforms and analytics solutions across healthcare and enterprise domains.
 
-I enjoy building dashboards, workflows, and AI prototypes that help organizations **make better decisions, faster.**
+My expertise centers around **advanced SQL, Snowflake optimization, ELT modernization (dbt, Airflow), and AWS-based data pipelines**. I specialize in transforming large-scale datasets into analytics-ready models that improve performance, reporting accuracy, and operational decision-making.
 
----
-
-## 🧠 Core Strengths
-
-- **Data Analytics & BI:** SQL, Power BI, Tableau, Looker, Excel, Python (pandas, numpy), Healthcare analytics, AI   
-- **Process Optimization:** BPMN, UML, Lean Six Sigma, Agile (Scrum, Kanban)  
-- **Documentation:** BRD, FRD, User Stories, Use Cases, Visio, Lucidchart  
-- **Automation Tools:** Power Automate, Alteryx, Google Data Studio  
-- **ERP & CRM Systems:** SAP, Salesforce, Oracle E-Business Suite, Workday  
-- **Collaboration Platforms:** Jira, Confluence, Trello, Asana, MS Teams  
+In regulated healthcare environments (CMS, FDA, HIPAA), I have worked with claims, risk adjustment, care management, and compliance datasets—designing reliable data pipelines and executive dashboards to support cost analysis and performance monitoring.
 
 ---
 
-## 🚀 Professional Experience
+## 🧠 Core Technical Stack
 
-### **Johnson & Johnson | Business Analyst** *(Feb 2025 – Present)*  
-- Built a **Sales Performance Dashboard** (SQL + Tableau) tracking KPIs across 50+ user stories — increased visibility by 15%.  
-- Re-engineered **surgical kit inventory workflows** in SAP & Visio, improving availability by 25%.  
-- Integrated **QMS + CRM systems** for FDA-compliant complaint handling, cutting resolution time by 70%.  
-- Authored BRDs/FRDs, A/B tests, and dashboards that boosted digital outreach by 15%.  
-- Deployed real-time QA dashboards in Tableau + SAP HANA for anomaly detection and compliance visibility.  
+### Data Engineering
+- SQL (Advanced)
+- Python
+- Snowflake
+- AWS (S3, Glue, EMR, Redshift)
+- dbt
+- Apache Airflow
+- Spark
+- Apache Kafka
 
-### **Highmark | Business Analyst** *(Jan 2024 – Nov 2024)*  
-- Reduced claim-processing data errors by 15% via **SQL-based validation** & Visio-mapped workflows.  
-- Drove engagement on member portals using predictive analytics and UAT-driven enhancements.  
-- Ensured 100% compliance with **No Surprises Act** through SQL-powered gap analysis.  
-- Automated provider onboarding → 30% cycle-time reduction.  
-- Created Power BI dashboards enabling **SLA** tracking and CMS compliance reporting.  
+### Business Intelligence
+- Power BI (DAX, Data Modeling, Dashboard Design)
+- Tableau
 
-### **Zentek Infosoft | Business Analyst** *(Apr 2020 – Dec 2022)*  
-- Authored 50+ BRDs & User Stories in Jira + Confluence for IT and ERP initiatives.  
-- Designed BPMN workflows → 20% faster project delivery.  
-- Collaborated with UX tools (Figma, Balsamiq) to improve design clarity and stakeholder buy-in.  
-- Supported Agile ceremonies → 15% team throughput increase.
+### Architecture & Practices
+- ETL → ELT Modernization
+- Data Modeling (Star & Snowflake Schema)
+- Workflow Orchestration
+- Performance Optimization
+- CI/CD (Docker, GitHub Actions)
+- Data Quality & Governance
 
 ---
 
-## 💡 Highlight Projects
+## 🚀 Professional Experience Highlights
 
-- **Gen AI Chatbot Prototype (for City Government):**  
-  Built a Retrieval-Augmented Generation chatbot on AWS Bedrock + Claude Sonnet, improving response accuracy by 29%.  
+### Johnson & Johnson - Data Analytics Engineer
+- Built scalable data pipelines integrating clinical, supply chain, and commercial datasets (100M+ records/day).
+- Optimized Snowflake and Redshift workloads using advanced SQL tuning, delivering six-figure annual cloud cost savings.
+- Implemented DataOps and CI/CD pipelines, improving deployment speed and reducing defects.
+- Developed Power BI dashboard,s improving operational visibility and reducing reporting time by 30%.
 
-- **Airline Passenger Satisfaction Analytics:**  
-  Applied ML models for predictive insights and Power BI dashboards, enhancing decision-making by 25%.
-  
-- **Healthcare Analytics:**
-  Developed an ML predictive model to predict real-time patient flow to support leadership decisions. 
+### Highmark - Data Engineer
+- Built AWS-based healthcare pipelines supporting claims, risk adjustment, and care management analytics.
+- Reduced reporting latency by 40% through optimized batch and near real-time processing.
+- Designed Tableau dashboards visualizing claims trends and KPI performance for healthcare stakeholders.
+
+### Zentek Infosoft - Data Engineer
+- Developed ELT pipelines integrating POS and e-commerce data into Redshift.
+- Built SQL-based dimensional models and KPI data marts, improving forecasting accuracy and reducing stockouts.
+
+---
+
+## 💡 Featured Projects
+
+### 🏥 Healthcare Cost & Utilization Analytics Platform
+SQL-driven healthcare analytics platform integrating CMS Medicare datasets for benchmarking provider performance, cost trends, and population health metrics.
+
+**Stack:** SQL, Snowflake, Data Modeling
+
+---
+
+### 🤖 Generative AI RAG Chatbot
+Designed and deployed a Retrieval-Augmented Generation system using AWS Bedrock, Kendra, and vector databases for semantic enterprise search across 8K+ documents.
+
+**Stack:** AWS, Lambda, Vector Search, Serverless Architecture
 
 ---
 
 ## 🎓 Education
 
-**M.S. Data Analytics Engineering** — *George Mason University, Fairfax VA* (2023 – 2024)  
-**B.E. Information Technology** — *Vardhaman College of Engineering, India* (2018 – 2022)
+**M.S. Data Analytics Engineering**  
+George Mason University
 
 ---
 
-## 🏅 Certifications
+## 📈 Focus Areas
 
-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
-- Lean SIX SIGMA - Yellow Belt  
-- Sales force CRM AI Agent  
-- Alteryx certified Designer Core 
-
----
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshtanni&layout=compact&theme=transparent)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maheshtanni&theme=transparent)
+- Healthcare Data Engineering
+- Analytics Engineering
+- Warehouse Performance Optimization
+- Claims & Risk Adjustment Analytics
+- Scalable Cloud Data Platforms
 
 ---
 
 ## 🤝 Let’s Connect
 
-💬 I’m open to opportunities in **Business Analysis, Data Analytics, or AI Strategy.**  
-📩 Reach me at **[maheshtanniru32@gmail.com](mailto:maheshtanniru32@gmail.com)**  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/mahesh-tanniru)
+I’m interested in opportunities at the intersection of **data engineering and healthcare analytics**, where scalable systems directly impact operational and clinical outcomes.
 
----
-
-⭐️ *“Turning data into decisions, and decisions into impact.”*
+📩 Connect with me on LinkedIn  
+🔗 Explore my repositories to have a peek at my personal projects
