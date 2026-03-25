@@ -1,6 +1,6 @@
-# 💼 Mahesh Tanniru
+# 💼 Mahesh T
 
-**Data & Analytics Engineer | SQL • Snowflake • AWS • dbt • Healthcare Analytics**  
+**Data & Analytics Engineer | SQL • Snowflake • AWS • dbt**  
 📍 United States (Open to Relocate)  
 📧 maheshtanni1@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mahesh-tanniru)
@@ -43,25 +43,6 @@ In regulated healthcare environments (CMS, FDA, HIPAA), I have worked with claim
 
 ---
 
-## 🚀 Professional Experience Highlights
-
-### Johnson & Johnson - Data Analytics Engineer
-- Built scalable data pipelines integrating clinical, supply chain, and commercial datasets (100M+ records/day).
-- Optimized Snowflake and Redshift workloads using advanced SQL tuning, delivering six-figure annual cloud cost savings.
-- Implemented DataOps and CI/CD pipelines, improving deployment speed and reducing defects.
-- Developed Power BI dashboard,s improving operational visibility and reducing reporting time by 30%.
-
-### Highmark - Data Engineer
-- Built AWS-based healthcare pipelines supporting claims, risk adjustment, and care management analytics.
-- Reduced reporting latency by 40% through optimized batch and near real-time processing.
-- Designed Tableau dashboards visualizing claims trends and KPI performance for healthcare stakeholders.
-
-### Zentek Infosoft - Data Engineer
-- Developed ELT pipelines integrating POS and e-commerce data into Redshift.
-- Built SQL-based dimensional models and KPI data marts, improving forecasting accuracy and reducing stockouts.
-
----
-
 ## 💡 Featured Projects
 
 ### 🏥 Healthcare Cost & Utilization Analytics Platform
@@ -87,7 +68,7 @@ George Mason University
 
 ## 📈 Focus Areas
 
-- Healthcare Data Engineering
+- Data Engineering
 - Analytics Engineering
 - Warehouse Performance Optimization
 - Claims & Risk Adjustment Analytics
