@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-I am a **Data & Analytics Engineer** with 5+ years of experience building scalable, production-grade data platforms and analytics solutions across healthcare and enterprise domains.
+I am a **Data & Analytics Engineer** with years of experience building scalable, production-grade data platforms and analytics solutions across healthcare and enterprise domains.
 
 My expertise centers around **advanced SQL, Snowflake optimization, ELT modernization (dbt, Airflow), and AWS-based data pipelines**. I specialize in transforming large-scale datasets into analytics-ready models that improve performance, reporting accuracy, and operational decision-making.
 
